@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stoicism/Guide to study.md",
+                "file": "2025 study plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guide to study"
+              "title": "2025 study plan"
             }
           }
         ],
@@ -182,10 +182,11 @@
   },
   "active": "a85eb2e1dfa40032",
   "lastOpenFiles": [
-    "Swift Studies/Untitled.md",
     "Stoicism/Guide to study.md",
+    "Untitled",
+    "Swift Studies/Untitled.md",
     "Stoicism",
-    "Welcome.md",
+    "2025 study plan.md",
     "Swift Studies"
   ]
 }
